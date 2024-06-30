@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "594352515670",
+    "project_id": "note-master-1b217",
+    "storage_bucket": "note-master-1b217.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594352515670:android:02c7abbc9624978c4469f7",
+        "android_client_info": {
+          "package_name": "com.example.notemaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtClpBZTUU-1Gww7UeNnKUCdpCFwPhZq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
